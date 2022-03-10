@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "knight_attackA1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackA1.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackA2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackA2.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackA3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackA3.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackA4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackA4.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackC1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackC1.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackC10.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackC10.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackC2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackC2.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackC3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackC3.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackC4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackC4.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackC5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackC5.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackC6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackC6.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackC7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackC7.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackC8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackC8.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_attackC9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_attackC9.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_death1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_death1.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_death10.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_death10.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_death2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_death2.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_death3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_death3.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_death4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_death4.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_death5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_death5.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_death6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_death6.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_death7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_death7.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_death8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_death8.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_death9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_death9.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_duck1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_duck1.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_duck2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_duck2.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_duck3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_duck3.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_hit1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_hit1.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_hit2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_hit2.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_hit3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_hit3.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_idle1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_idle1.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_idle10.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_idle10.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_idle2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_idle2.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_idle3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_idle3.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_idle4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_idle4.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_idle5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_idle5.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_idle6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_idle6.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_idle7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_idle7.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_idle8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_idle8.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_idle9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_idle9.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_left1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_left1.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_left10.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_left10.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_left2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_left2.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_left3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_left3.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_left4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_left4.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_left5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_left5.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_left6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_left6.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_left7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_left7.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_left8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_left8.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_left9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_left9.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_right1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_right1.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_right10.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_right10.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_right2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_right2.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_right3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_right3.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_right4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_right4.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_right5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_right5.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_right6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_right6.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_right7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_right7.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_right8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_right8.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_move_right9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_move_right9.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll1.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll10.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll10.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll11.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll11.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll12.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll12.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll2.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll3.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll4.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll5.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll6.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll7.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll8.png",
+      "folder": ""
+    },
+    {
+      "name": "knight_roll9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Knight Sprites/knight_roll9.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "knight_battle",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

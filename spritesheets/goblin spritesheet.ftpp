@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "goblin_attackA1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackA1.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackA2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackA2.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackA3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackA3.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackA4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackA4.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackA5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackA5.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackA6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackA6.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackA7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackA7.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackA8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackA8.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackA9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackA9.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackB1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackB1.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackB10.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackB10.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackB2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackB2.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackB3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackB3.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackB4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackB4.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackB5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackB5.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackB6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackB6.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackB7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackB7.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackB8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackB8.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_attackB9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_attackB9.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_death1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_death1.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_death2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_death2.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_death3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_death3.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_death4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_death4.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_idle1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_idle1.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_idle2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_idle2.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_idle3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_idle3.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_idle4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_idle4.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_left1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_left1.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_left2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_left2.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_left3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_left3.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_left4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_left4.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_left5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_left5.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_left6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_left6.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_left7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_left7.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_left8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_left8.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_right1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_right1.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_right2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_right2.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_right3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_right3.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_right4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_right4.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_right5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_right5.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_right6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_right6.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_right7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_right7.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_move_right8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Goblin/Frames/goblin_move_right8.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "goblin_battle",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

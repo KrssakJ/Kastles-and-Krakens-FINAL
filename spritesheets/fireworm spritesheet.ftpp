@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "fireworm_attackA1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA1.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA10.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA10.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA11.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA11.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA12.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA12.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA13.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA13.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA14.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA14.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA15.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA15.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA16.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA16.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA2.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA3.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA4.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA5.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA6.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA7.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA8.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_attackA9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_attackA9.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_death1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_death1.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_death2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_death2.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_death3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_death3.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_death4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_death4.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_death5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_death5.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_death6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_death6.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_death7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_death7.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_death8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_death8.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_idle1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_idle1.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_idle2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_idle2.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_idle3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_idle3.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_idle4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_idle4.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_idle5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_idle5.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_idle6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_idle6.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_idle7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_idle7.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_idle8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_idle8.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_idle9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_idle9.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_left1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_left1.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_left2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_left2.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_left3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_left3.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_left4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_left4.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_left5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_left5.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_left6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_left6.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_left7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_left7.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_left8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_left8.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_left9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_left9.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_right1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_right1.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_right2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_right2.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_right3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_right3.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_right4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_right4.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_right5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_right5.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_right6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_right6.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_right7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_right7.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_right8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_right8.png",
+      "folder": ""
+    },
+    {
+      "name": "fireworm_move_right9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/worm frames/fireworm_move_right9.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "fireworm_battle",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

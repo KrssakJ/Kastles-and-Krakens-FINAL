@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "skeleton_attackA1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackA1.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackA2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackA2.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackA3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackA3.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackA4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackA4.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackA5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackA5.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackA6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackA6.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackA7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackA7.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackA8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackA8.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackB1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackB1.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackB10.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackB10.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackB2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackB2.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackB3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackB3.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackB4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackB4.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackB5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackB5.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackB6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackB6.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackB7.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackB7.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackB8.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackB8.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_attackB9.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_attackB9.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_death1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_death1.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_death2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_death2.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_death3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_death3.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_death4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_death4.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_idle1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_idle1.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_idle2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_idle2.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_idle3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_idle3.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_idle4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_idle4.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_move_left1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_move_left1.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_move_left2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_move_left2.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_move_left3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_move_left3.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_move_left4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_move_left4.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_move_right1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_move_right1.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_move_right2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_move_right2.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_move_right3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_move_right3.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_move_right4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Monsters_Creatures_Fantasy/Skeleton/Frames/skeleton_move_right4.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "skeleton_battle",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "goblin_back1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_back1.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_back2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_back2.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_back3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_back3.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_back4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_back4.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_front1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_front1.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_front2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_front2.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_front3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_front3.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_front4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_front4.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_left1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_left1.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_left2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_left2.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_left3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_left3.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_left4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_left4.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_right1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_right1.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_right2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_right2.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_right3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_right3.png",
+      "folder": ""
+    },
+    {
+      "name": "goblin_right4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/goblin/goblin_right4.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "goblin_sprites",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

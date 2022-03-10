@@ -1,0 +1,159 @@
+{
+  "frames": {
+    "fireball_idle6.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 11
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 18,
+        "w": 19,
+        "h": 11
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fireball_idle1.png": {
+      "frame": {
+        "x": 19,
+        "y": 0,
+        "w": 18,
+        "h": 12
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 17,
+        "w": 18,
+        "h": 12
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fireball_idle5.png": {
+      "frame": {
+        "x": 0,
+        "y": 11,
+        "w": 18,
+        "h": 11
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 18,
+        "w": 18,
+        "h": 11
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fireball_idle4.png": {
+      "frame": {
+        "x": 37,
+        "y": 0,
+        "w": 17,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 16,
+        "w": 17,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fireball_idle3.png": {
+      "frame": {
+        "x": 18,
+        "y": 12,
+        "w": 15,
+        "h": 14
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 16,
+        "w": 15,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fireball_idle2.png": {
+      "frame": {
+        "x": 0,
+        "y": 22,
+        "w": 15,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 17,
+        "w": 15,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "fireball_battle.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 54,
+      "h": 35
+    },
+    "scale": 1
+  }
+}

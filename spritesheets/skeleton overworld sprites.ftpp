@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "skeleton_back1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_back1.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_back2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_back2.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_back3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_back3.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_back4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_back4.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_front1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_front1.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_front2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_front2.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_front3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_front3.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_front4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_front4.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_left1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_left1.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_left2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_left2.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_left3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_left3.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_left4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_left4.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_right1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_right1.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_right2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_right2.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_right3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_right3.png",
+      "folder": ""
+    },
+    {
+      "name": "skeleton_right4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Kastles and Krakens/NPCs/skeleton/skeleton_right4.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "skeleton_sprites",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

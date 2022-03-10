@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "key_correct0.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_correct0.png",
+      "folder": ""
+    },
+    {
+      "name": "key_correct1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_correct1.png",
+      "folder": ""
+    },
+    {
+      "name": "key_correct2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_correct2.png",
+      "folder": ""
+    },
+    {
+      "name": "key_correct3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_correct3.png",
+      "folder": ""
+    },
+    {
+      "name": "key_correct4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_correct4.png",
+      "folder": ""
+    },
+    {
+      "name": "key_correct5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_correct5.png",
+      "folder": ""
+    },
+    {
+      "name": "key_default0.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_default0.png",
+      "folder": ""
+    },
+    {
+      "name": "key_default1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_default1.png",
+      "folder": ""
+    },
+    {
+      "name": "key_default2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_default2.png",
+      "folder": ""
+    },
+    {
+      "name": "key_default3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_default3.png",
+      "folder": ""
+    },
+    {
+      "name": "key_default4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_default4.png",
+      "folder": ""
+    },
+    {
+      "name": "key_default5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_default5.png",
+      "folder": ""
+    },
+    {
+      "name": "key_failed0.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_failed0.png",
+      "folder": ""
+    },
+    {
+      "name": "key_failed1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_failed1.png",
+      "folder": ""
+    },
+    {
+      "name": "key_failed2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_failed2.png",
+      "folder": ""
+    },
+    {
+      "name": "key_failed3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_failed3.png",
+      "folder": ""
+    },
+    {
+      "name": "key_failed4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_failed4.png",
+      "folder": ""
+    },
+    {
+      "name": "key_failed5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Key Sprites/key_failed5.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "key_assets",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

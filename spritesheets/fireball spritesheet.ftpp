@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "fireball_idle1.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/fireball frames/fireball_idle1.png",
+      "folder": ""
+    },
+    {
+      "name": "fireball_idle2.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/fireball frames/fireball_idle2.png",
+      "folder": ""
+    },
+    {
+      "name": "fireball_idle3.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/fireball frames/fireball_idle3.png",
+      "folder": ""
+    },
+    {
+      "name": "fireball_idle4.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/fireball frames/fireball_idle4.png",
+      "folder": ""
+    },
+    {
+      "name": "fireball_idle5.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/fireball frames/fireball_idle5.png",
+      "folder": ""
+    },
+    {
+      "name": "fireball_idle6.png",
+      "path": "C:/Users/jozko.krssak/Desktop/Fire Worm/fireball frames/fireball_idle6.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "fireball_battle",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}
