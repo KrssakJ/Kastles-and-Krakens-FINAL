@@ -412,7 +412,7 @@ class Text():
         self.coords = coords
 
 # Source: CDcodes - Pygame Sprite Sheet Tutorial: How to Load, Parse, and Use Sprite Sheets
-# https://www.youtube.com/watch?v=XuyrHE6GIsc
+# https://www.youtube.com/watch?v=ePiMYe7JpJo
 class Spritesheet():
     def __init__(self, filename):
         jsonfilename = filename.replace("png","json")
