@@ -182,6 +182,8 @@ class MainGame():
         # deletes every overworld sprite and displays a congratulatory meassage
         self.game_sprites.empty()
         pygame.display.set_caption("Congratulations!") # changes the window caption
+
+        self.player_health += 10 # heals the player up a little bit
         
         # renders the congratulatory text
         text1 = self.medium_font.render("Congratulations!", True, (200,200,0))
@@ -304,7 +306,7 @@ class MainGame():
     def trigger_battle_phase(self, enemy):
         # triggered when overworld enemy objects touch the player
         self.enemy = enemy # loads the enemy object into memory
-        self.roaming = not self.roaming # switches to battle phase
+        self.roaming = False # switches to battle phase
         self.load_battle_sprites()
 
     def load_battle_sprites(self):
@@ -791,12 +793,12 @@ class Enemy(NPC):
         pass
 
     def wander(self):
-        if self.wander_delay == True:
+        if self.wander_delay == True: # enemy has reached their destination and is currently waiting out the 1 second timer
             self.time_delay()
-        elif self.wandering == False:
+        elif self.wandering == False: # enemy is searching for a new destination
             self.find_pos()
             self.move_to_new_pos()
-        else:
+        else: # enemy is travelling to their destination
             self.move_to_new_pos()
 
     def find_pos(self):
@@ -914,7 +916,7 @@ class Charger(Enemy):
         self.cur_wall_list = self.game.cur_wall_list
 
         if self.player_spotted == True:
-            mvms = self.mvms*2.5
+            mvms = self.mvms*3
         else:
             mvms = self.mvms
         self.position_x += self.direction_x * mvms * self.game.dt * 60
@@ -929,7 +931,7 @@ class Charger(Enemy):
         if self.charge_delay == True: # check if enemy waited for 2 seconds, True = wait a bit longer
             self.check_for_charge()
         else:
-            self.charge()
+            self.move_to_new_pos() # move towards the player
 
     def check_for_charge(self):
         self.set_sprite()
@@ -949,9 +951,6 @@ class Charger(Enemy):
         else:
             self.cur_sprlist = self.frames_right
         self.base_sprite = self.cur_sprlist[3]
-
-    def charge(self): # move towards the player
-        self.move_to_new_pos()
 
 class BattleNPC(pygame.sprite.Sprite):
     def __init__(self, game, anch_x, anch_y):
